@@ -1,0 +1,7 @@
+{
+  "name": "appForm",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
